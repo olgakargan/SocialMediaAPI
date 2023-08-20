@@ -1,0 +1,27 @@
+Social Media API
+RESTful API для социальной медиа платформы,
+
+Фунционал
+Разработать RESTful API для социальной медиа платформы,
+позволяющей пользователям регистрироваться, входить в систему, создавать
+посты, переписываться, подписываться на других пользователей и получать
+свою ленту активности.
+
+Java 17
+Spring Boot 3.1.2
+Spring Security
+PostgreSQL
+JSON Web Tokens (JWT)
+BCrypt
+Maven
+UI API Swagger-ui
+H2(для тестов)
+Библиотеки:
+org.projectlombok
+org.postgresql
+org.liquibase
+org.springframework.security
+org.springdoc
+io.jsonwebtoken
+org.junit.jupiter
+com.h2database

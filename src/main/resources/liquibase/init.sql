@@ -2,7 +2,7 @@
 
 --changeset olga:1
 
-create table users
+create table users1
 (
     id        serial primary key,
     full_name text not null,

@@ -1,2 +1,6 @@
-package com.example.socialmediaapi.token;public class TokenType {
+package com.example.socialmediaapi.token;
+
+
+public enum TokenType {
+    BEARER
 }
